@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIExpandableNavigationAndSearch_BarApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
